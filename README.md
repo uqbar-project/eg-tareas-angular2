@@ -7,6 +7,6 @@
 Configuracion:
 
 * En la consola ir a la carpeta Angular2 y correr "npm install & npm install -g @angular/cli"
-* Ejecutar "ng build --output-path '../webapp'" cada vez que se haga algun cambio para volver a compilar el codigo typescript en javascript
+* Ejecutar "ng build" cada vez que se haga algun cambio para volver a compilar el codigo typescript en javascript
 * Correrlo a traves del IDE o con la consola dentro de la carpeta principal ejecutando "mvn clean install exec:java"
 
