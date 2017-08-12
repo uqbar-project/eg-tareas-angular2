@@ -74,7 +74,8 @@ class TareasController {
 	}
 
 	def static void main(String[] args) {
-		XTRest.start(TareasController, 9000)
+		XTRest.setResourcePath("src/main/resources/webapp/dist")
+		XTRest.start(9000, TareasController)
 	}
 
 }

@@ -9,5 +9,4 @@ xtend-gen*
 *.iml
 .idea/
 dist/
-webapp/
 

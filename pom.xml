@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>org.uqbar</groupId>
 			<artifactId>xtrest</artifactId>
-			<version>0.1.4</version>
+			<version>1.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.uqbar-project</groupId>
